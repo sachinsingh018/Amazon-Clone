@@ -6,7 +6,8 @@ https://user-images.githubusercontent.com/38975177/209288898-1d001f02-cec3-4d87-
 
 ## Amazon Clone
 
-This is a clone of the popular website Amazon created using ReactJS framework for the front-end supported by a NodeJS based backend for the same. Feel free to explore the project!!!
+This is a clone of the popular website Amazon created using ReactJS framework for the front-end supported by a NodeJS based backend for the same.<br /> Feel free to explore the project!!! <br />
+The video above shows the functioning of our Amazon Clone as well.
 
 ## Features
 -Register or login as an user <br />
