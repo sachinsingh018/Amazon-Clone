@@ -9,10 +9,10 @@ https://user-images.githubusercontent.com/38975177/209288898-1d001f02-cec3-4d87-
 This is a clone of the popular website Amazon created using ReactJS framework for the front-end supported by a NodeJS based backend for the same.
 
 ## Features
--Register or login as an user
--Add products to cart
--Payment using Debit/Credit Card
--Order History
--Creating an order
--Order History
+-Register or login as an user <br />
+-Add products to cart<br />
+-Payment using Debit/Credit Card<br />
+-Order History<br />
+-Creating an order<br />
+-Order History<br />
 
